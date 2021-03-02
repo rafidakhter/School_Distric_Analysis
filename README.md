@@ -18,3 +18,6 @@ School performance based on the type of school
 
 After excluding Thomas High School's 9th grade data, has'nt effected the out of the result.
 
+**#Conslusion:**
+
+They were most likely not cheating
